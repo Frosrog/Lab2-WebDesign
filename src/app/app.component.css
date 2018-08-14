@@ -1,0 +1,13 @@
+*{
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: 8px;
+  flex-flow: column wrap;
+
+}
+h1 {
+  color: #369;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+  font-size: 250%;
+}
